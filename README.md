@@ -1,6 +1,6 @@
 # ChainProofV2: Elevating Document Storage with Blockchain and React
 
-![ChainProofV2 Logo](https://raw.githubusercontent.com/waseem0605/ChainProofV2/main/logo.png)
+![ChainProofV2 Logo](https://raw.githubusercontent.com/waseem0605/ChainProofV2/logo.png)
 
 ## Introduction
 ChainProofV2 is the next-level solution for document storage, leveraging the power of blockchain and React. This program redefines security, permanence, and accessibility in document management.
